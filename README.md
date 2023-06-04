@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Bio Shot
-- 👀 I’m interested in Roblox LUA Which im im currently working on a plugin!...
-
+- 👋 Hi, I’m Bio Shot! I am young inspiring developer based out of Atlanta, GA!
+- I'm Interested in C/C++, C#, Javascript, and Rust! 
+- Here are some of My Favorite Projects That I have made!
